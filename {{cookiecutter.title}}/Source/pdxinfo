@@ -1,0 +1,7 @@
+name={{cookiecutter.title}}
+author={{cookiecutter.author}}.
+description={{cookiecutter.description}}.
+bundleID={{cookiecutter.bundle_id}}
+version=1.0
+buildNumber=100
+imagePath=SystemAssets
